@@ -57,7 +57,7 @@ It exists for one reason:
 With XDoTool Menu you can:
 
 - Create automation scripts through a menu interface
-- Generate Bash files automatically
+- Automatically put a delay between commands in script to prevent errors.
 - Edit scripts manually if you want (optional)
 
 No Bash knowledge required.
